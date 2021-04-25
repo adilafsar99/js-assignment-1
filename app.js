@@ -25,7 +25,7 @@ else if (taskNumber === 3) {
 else if (taskNumber === 4) {
 
 //book variable script
-   var book = "A smarter way to learn JavaScript";
+   var book = "A Smarter Way To Learn JavaScript";
    document.write(book);
    document.write("<br /><br />");
 
