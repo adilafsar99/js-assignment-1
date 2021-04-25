@@ -48,5 +48,5 @@ else if (taskNumber === 6) {
 }
 
 else {
-   alert("Invalid input!);
+   alert("Invalid input!");
 }
