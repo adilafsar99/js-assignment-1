@@ -12,7 +12,7 @@ else if (taskNumber === 2) {
 else if (taskNumber === 3) {
 //message variable script
    var message;
-   message = "Hello World";
+   message = "Hello World!";
    alert(message);
 }
 
